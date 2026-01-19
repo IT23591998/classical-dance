@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Menon",
+        "role": "Senior Instructor",
+        "styles": [
+            "Bharatanatyam",
+            "Mohiniyattam"
+        ],
+        "bio": "With over 20 years of experience, Sarah brings deep discipline and expressiveness to her teaching. She has performed on global stages.",
+        "image": "/images/placeholder-instructor1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Priya Reddy",
+        "role": "Odissi Specialist",
+        "styles": [
+            "Odissi",
+            "Folk"
+        ],
+        "bio": "Priya is known for her fluid grace and technical perfection. She focuses on the sculpturesque poses of Odissi.",
+        "image": "/images/placeholder-instructor2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "David Lin",
+        "role": "Contemporary Fusion",
+        "styles": [
+            "Contemporary",
+            "Body Conditioning"
+        ],
+        "bio": "David bridges the gap between classical rigor and modern fluidity, helping students find their own unique movement language.",
+        "image": "/images/placeholder-instructor3.jpg"
+    }
+]

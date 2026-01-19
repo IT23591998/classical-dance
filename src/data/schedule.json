@@ -1,0 +1,35 @@
+[
+  {
+    "day": "Monday",
+    "classes": [
+      { "time": "16:00 - 17:30", "level": "Beginner", "style": "Bharatanatyam", "instructor": "Sarah M." },
+      { "time": "18:00 - 19:30", "level": "Intermediate", "style": "Odissi", "instructor": "Priya R." }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "classes": [
+      { "time": "17:00 - 18:30", "level": "Advanced", "style": "Kathak", "instructor": "Anita D." }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "classes": [
+      { "time": "16:00 - 17:30", "level": "Beginner", "style": "Bharatanatyam", "instructor": "Sarah M." },
+      { "time": "18:00 - 19:30", "level": "Intermediate", "style": "Contemporary Fusion", "instructor": "David L." }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "classes": [
+       { "time": "17:00 - 18:30", "level": "Open Level", "style": "Yoga for Dancers", "instructor": "Maya S." }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "classes": [
+      { "time": "09:00 - 10:30", "level": "Kids Batch", "style": "Bharatanatyam", "instructor": "Sarah M." },
+      { "time": "11:00 - 13:00", "level": "Masterclass", "style": "Rhythm & Expression", "instructor": "Visiting Artist" }
+    ]
+  }
+]
